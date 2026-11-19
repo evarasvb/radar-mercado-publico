@@ -1,0 +1,7 @@
+{"nota": "Perfil de demostración (no es un cliente real): proveedor de servicios generales y técnicos.",
+ "claves": [
+  {"palabra": "aseo*", "peso": 3}, {"palabra": "limpieza", "peso": 3}, {"palabra": "calibracion", "peso": 3},
+  {"palabra": "mantencion*", "peso": 2}, {"palabra": "capacitacion*", "peso": 2}, {"palabra": "consultoria*", "peso": 2},
+  {"palabra": "software", "peso": 2}, {"palabra": "vigilancia", "peso": 1}],
+ "excluir": ["vehiculo*", "ascensor*"],
+ "organismos_oc": ["7248"]}

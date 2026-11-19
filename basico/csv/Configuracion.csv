@@ -1,0 +1,6 @@
+Parámetro,Valor,Ayuda,,Palabras clave,Excluir si contiene,Regiones (opcional),Códigos de organismo (opcional)
+Correo para el resumen,,Dirección que recibe el resumen diario y los avisos de falla.,,aseo*,vehículo*,,
+Hora de ejecución diaria (0 a 23),7,"Hora de Chile. Después de cambiarla, usa el menú 4 otra vez.",,limpieza,,,
+Avisar aunque no haya novedades (SI/NO),SI,SI permite distinguir «sin novedades» de «no funcionó».,,mantención de áreas verdes,,,
+Máximo de fichas a completar por ejecución,40,Cada ficha es una consulta adicional a la API.,,sanitización,,,
+Fichas extra para buscar en la descripción (0 = no),0,Opcional y lento: revisa la descripción de licitaciones que no coincidieron por nombre.,,,,,

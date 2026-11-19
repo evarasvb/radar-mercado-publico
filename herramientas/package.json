@@ -1,0 +1,7 @@
+{
+  "name": "radar-mp-herramientas",
+  "private": true,
+  "description": "Validador de sintaxis de las consultas Power Query (M) del Radar MP",
+  "scripts": { "validar-m": "node validar_m.js" },
+  "dependencies": { "@microsoft/powerquery-parser": "^5.1.0" }
+}
